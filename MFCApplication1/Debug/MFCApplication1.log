@@ -1,0 +1,3 @@
+﻿  MFCApplication1Dlg.cpp
+e:\kuliah\semester 5\works. pemodelan dan simulasi\mfc 1-100\mfcapplication1\mfcapplication1\mfcapplication1dlg.cpp(84): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MFCApplication1.vcxproj -> E:\Kuliah\Semester 5\Works. Pemodelan dan Simulasi\MFC 1-100\MFCApplication1\Debug\MFCApplication1.exe
